@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold-50: #fdf8e8;
+  --color-gold-100: #f9ecc5;
+  --color-gold-200: #f3d98b;
+  --color-gold-300: #edc551;
+  --color-gold-400: #e6b01e;
+  --color-gold-500: #c99a11;
+  --color-gold-600: #a67b0d;
+  --color-gold-700: #835d0a;
+  --color-gold-800: #5f4308;
+  --color-gold-900: #3b2905;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  background-color: #fafaf8;
+  direction: rtl;
+  margin: 0;
+}
